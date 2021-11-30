@@ -1,4 +1,4 @@
-#Day one on git
+# Day one on git
 
 Learning git
 
